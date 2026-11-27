@@ -1,0 +1,24 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+.venv/
+env/
+
+# IDE / editor
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Distribution / build
+build/
+*.egg-info/
+
+# pytest cache
+.pytest_cache/
+
+# Misc
+*.log
